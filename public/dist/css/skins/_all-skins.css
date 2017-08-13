@@ -1,10 +1,7 @@
-/*
- * Skin: Blue
- * ----------
- */
-.skin-blue .main-header .navbar {
-  background-color: #3c8dbc;
-}
+
+/*.skin-blue .main-header .navbar {
+  background-color: #0e35a7 !important;
+}*/
 .skin-blue .main-header .navbar .nav > li > a {
   color: #ffffff;
 }

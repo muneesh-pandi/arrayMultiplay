@@ -1,5 +1,5 @@
 <!-- Default box -->
-<div class="box box-primary">
+<div class="box box-warning">
   <div class="box-header with-border">
     <h3 class="box-title">{{$title}}</h3>
 
@@ -13,7 +13,7 @@
   </div>
   <div class="box-body">
     {{-- <h2>Section title</h2> --}}
-     <div class="table-responsive">
+     <div class="table-responsive  col-md-6 col-md-offset-3">
        <table class="table table-striped table-bordered">
          <tbody>
            <tr>

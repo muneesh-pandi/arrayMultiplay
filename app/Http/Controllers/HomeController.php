@@ -21,7 +21,7 @@ class HomeController extends Controller
 
         $title = "Default Array(Task1)";
 
-        return view('index', ["title" => $title])->with('matrix', $matrix)
+        return view('pages.interviewTask1', ["title" => $title])->with('matrix', $matrix)
                             ->with('array2', $array2)
                             ->with('array1', $array1);
     }

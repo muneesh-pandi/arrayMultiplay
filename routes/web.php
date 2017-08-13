@@ -11,8 +11,13 @@
 |
 */
 
-Route::get('/', function () {
-    return view('welcome');
-});
+// Route::get('/', function () {
+//     return view('welcome');
+// });
 
-Route::resource('home', 'HomeController');
+Route::resource('/', 'HomeController');
+Route::get('task2', 'PagesController@getArray');
+Route::post('task2', 'PagesController@getTask2')->name('multiArray');
+Route::get('task3', function () {
+    return view('pages.interviewTask3');
+});
