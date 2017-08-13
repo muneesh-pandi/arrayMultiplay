@@ -1,4 +1,4 @@
- <p align="center">arryMultiplay</p>
+ <p align="center">arrayMultiplay</p>
 
 
 ## arrayMultiplay
