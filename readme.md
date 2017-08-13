@@ -3,8 +3,8 @@
 
 ## arrayMultiplay
 
-arrayMultiplay with laravel 5.4:
-Laravel is accessible, yet powerful, providing tools needed for large, robust applications. A superb combination of simplicity, elegance, and innovation give you tools you need to build any application with which you are tasked.
+In this project using Laravel 5.4, Bootstrap, jquery ajax
+
 
 ## How to Install (using cmd)
 
